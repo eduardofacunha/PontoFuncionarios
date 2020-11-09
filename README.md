@@ -7,7 +7,7 @@ PosgreSQL instalado (versão 12 foi usada para teste)
 
 PgAdmin 4 para configuração
 
-Visual studio 2019
+SDK .Net Core 3.1
 
 Passo a passo:
 
