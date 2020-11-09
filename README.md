@@ -10,6 +10,7 @@ PgAdmin 4 para configuração
 Visual studio 2019
 
 Passo a passo:
+
 	- Criar banco "test"
 	
 	- Verificar se usuario "postgres" continua com a senha "postgres"
