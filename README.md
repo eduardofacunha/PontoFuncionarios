@@ -15,7 +15,7 @@ Passo a passo:
 	
 	- Verificar se usuario "postgres" continua com a senha "postgres"
 	
-	- Importar bancoPontoFuncionarios.sql para PgAdmin 4
+	- Importar bancoPontoFuncionarios.sql para o banco "test"
 	
 	- Abrir um prompt de comando dentro da pasta "PontoFuncionarios\PontoFuncionarios"
 	
